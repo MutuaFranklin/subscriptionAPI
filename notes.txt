@@ -1,6 +1,0 @@
-# http://127.0.0.1:8000/djangoflutterwave/payment-params/?plan=Premium
-
-
-
-
-heroku pg:push subscription DATABASE_URL --app contentsubscription
