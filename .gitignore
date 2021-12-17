@@ -1,0 +1,9 @@
+virtual/
+/*pyc
+.env
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+ notes.tx
